@@ -15,7 +15,7 @@ livego是基于golang开发的rtmp服务器<br/>
 *  支持hls观看
 *  支持http-flv观看
 *  支持gop-cache缓存
-*  静态relay支持：支持静态推流，拉流
+*  静态replay支持：支持静态推流，拉流
 *  统计信息支持：支持http在线查看流状态
 *  支持直播云导播台功能
 
